@@ -43,3 +43,5 @@ Systems.out.print(analiz);
 /* **Aldığımız Notları ortalamaya Bölüp 60 ile Kıyasladık Ve Sınıfı Geçip Geçemeyeceğini Tespit Etmiş Olduk.Not Ortalaması Testimiz Burda Sonlanmış Oldu Patika.İyi Günler** */
 
     Barış ÇAlışkan
+
+    [PatikaBeniOku](https://www.patika.dev)
