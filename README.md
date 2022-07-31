@@ -1,4 +1,4 @@
-# Not Ortalaması Hesaplayan Program
+#Not Ortalaması Hesaplayan Program
 
 /* **Java Kütüphanemizi Sisteme Dahil Ediyoruz Öncelikle** */
 
