@@ -44,10 +44,9 @@ Systems.out.print(analiz);
 
     Barış ÇAlışkan
 
-<<<<<<< HEAD
-[PatikaBeniOku](https://www.patika.dev);
-=======
-[PatikaBeniOku](https://www.patika.dev)
 
-[PatikaOku](https://app.patika.dev/sign-in);
->>>>>>> 2702e851647f52ceab8457668ed229a220de476a
+[PatikaBeniOku](https://www.patika.dev);
+
+[PatikaOku](https://app.patika.dev/);
+
+
